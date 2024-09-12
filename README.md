@@ -1,3 +1,4 @@
+<img alt="coding" width="1100" height="200" src="banner.jpg">
 <h1 align="center">Hi 👋, I'm Abhishek Pandey</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width="200" src="https://media1.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif">
