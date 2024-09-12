@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abhishek Pandey</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding" width="300" src="https://media1.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif">
+<img align="right" alt="coding" width="200" src="https://media1.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhicse12&label=Profile%20views&color=0e75b6&style=flat" alt="abhicse12" /> </p>
 
