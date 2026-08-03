@@ -94,19 +94,19 @@
 
 <div align="center">
 
-<a href="https://github.com/abhicse12/echoverse">
+<a href="https://github.com/abhicse12/EchoVerse">
 <img width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=abhicse12&repo=echoverse&theme=tokyonight&hide_border=true"/>
 </a>
 
-<a href="https://github.com/abhicse12/transcripto">
+<a href="https://github.com/abhicse12/Transcripto">
 <img width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=abhicse12&repo=transcripto&theme=tokyonight&hide_border=true"/>
 </a>
 
-<a href="https://github.com/abhicse12/meterflow">
+<a href="https://github.com/abhicse12/MeterFlow">
 <img width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=abhicse12&repo=meterflow&theme=tokyonight&hide_border=true"/>
 </a>
 
-<a href="https://github.com/abhicse12/weather-app">
+<a href="https://github.com/abhicse12/Weather-App">
 <img width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=abhicse12&repo=weather-app&theme=tokyonight&hide_border=true"/>
 </a>
 
