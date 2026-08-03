@@ -16,6 +16,10 @@
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
+<a href="https://leetcode.com/u/Abhishekp12/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
 <br/><br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Building+production-grade+full-stack+apps;MERN+%2B+Next.js+%2B+TypeScript+%2B+Docker;AI-powered+SaaS+%7C+REST+APIs+%7C+Cloud+Deployment" alt="Typing SVG"/>
@@ -90,27 +94,14 @@
 
 ---
 
-# 🌟 Featured Projects
+## 🌟 Featured Projects
 
-<div align="center">
-
-<a href="https://github.com/abhicse12/EchoVerse">
-<img width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=abhicse12&repo=echoverse&theme=tokyonight&hide_border=true"/>
-</a>
-
-<a href="https://github.com/abhicse12/Transcripto">
-<img width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=abhicse12&repo=transcripto&theme=tokyonight&hide_border=true"/>
-</a>
-
-<a href="https://github.com/abhicse12/MeterFlow">
-<img width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=abhicse12&repo=meterflow&theme=tokyonight&hide_border=true"/>
-</a>
-
-<a href="https://github.com/abhicse12/Weather-App">
-<img width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=abhicse12&repo=weather-app&theme=tokyonight&hide_border=true"/>
-</a>
-
-</div>
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| 🚀 **[EchoVerse](https://github.com/abhicse12/EchoVerse)** | Reddit-inspired AI community platform | Next.js • Prisma • PostgreSQL • Groq AI |
+| 🎙️ **[Transcripto](https://github.com/abhicse12/Transcripto)** | AI Speech-to-Text SaaS | React • Node.js • MongoDB • AssemblyAI |
+| ⚡ **[MeterFlow](https://github.com/abhicse12/MeterFlow)** | API Gateway & Billing Platform | Express • Redis • JWT • Razorpay |
+| 🌦️ **[Weather App](https://github.com/abhicse12/Weather-App)** | Dockerized Weather Application | Node.js • Docker • OpenWeather API |
 
 ### 🔹 EchoVerse — AI-Powered Community Discussion Platform
 
@@ -130,27 +121,36 @@ Weather application using OpenWeather API with Dockerized backend and deployment
 
 ---
 
-# 📊 GitHub Analytics
+# 💻 Tech I Work With
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=abhicse12&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img src="https://skillicons.dev/icons?i=cpp,c,js,ts,react,nextjs,nodejs,express,mongodb,postgres,prisma,redis,tailwind,bootstrap,docker,git,github,vercel,postman,vscode&perline=10"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhicse12&layout=compact&theme=tokyonight&hide_border=true"/>
+</div>
 
-<br/>
+---
+
+# 📊 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=abhicse12&theme=tokyonight&no-frame=true&no-bg=true"/>
+
+<br><br>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhicse12&theme=tokyonight&hide_border=true"/>
 
-<br/>
+<br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abhicse12&theme=tokyo-night&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abhicse12&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
 ---
 
 # 🐍 Contribution Snake
+
 
 <div align="center">
 
