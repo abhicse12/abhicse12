@@ -135,10 +135,6 @@ Weather application using OpenWeather API with Dockerized backend and deployment
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=abhicse12&theme=tokyonight&no-frame=true&no-bg=true"/>
-
-<br><br>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhicse12&theme=tokyonight&hide_border=true"/>
 
 <br><br>
